@@ -73,8 +73,8 @@ paascloud:
       expiredRemainMinutes: 20
       expiredMinutes: 120
   mail:
-    host: smtp.126.com
-    username: 'lijieaabb'
+    host: smtp.qq.com
+    username: '1849802498@qq.com'
     password: 'lj1991528'
     test-connection: true
     properties:
